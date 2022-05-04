@@ -1,15 +1,15 @@
 ---
-# PA6: FileSystem(open)
+# PA6: FileSystem
 ---
 
 **This assignment is open to collaboration.**
 
 This assignment will teach you how to use Hash Maps and apply them to implement a basic file searching system.
 
-This PA is due on ** **Wednesday, May 12th at 11:59pm** **     
+This PA is due on ** **Tuesday, May 10th at 10:00pm** **     
 
 ## Getting the Code
-The starter code is in the Github repository that you are currently looking at. If you are not familiar with Github, here are two easy ways to get your code.
+The starter code is in https://github.com/ucsd-cse12-sp22/cse12-pa6-HashMap. If you are not familiar with Github, here are two easy ways to get your code.
 
 1. Download as a ZIP folder 
 
